@@ -1,1 +1,1 @@
-# cloud
+# coding-project-template
